@@ -38,7 +38,7 @@
  ➡️ IaC and Automation: Ansible, Terraform, Jenkins<br>
  ➡️ Monitoring tools: Prometheus, Grafana, node_exporter, grok_exporter.<br>
  ➡️ Scripting languages: Python, Bash;<br><br>
-🖌️DESIGN:
+🖌️DESIGN:<br>
 ➡️ Graphics: Adobe Illustrator, Canva ;<br>
 ➡️ Ux: Adobe XD, Figma.<br>
 </p>
