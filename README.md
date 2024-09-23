@@ -8,16 +8,40 @@
 
 <h3 align="left"> Who am I?</h3>
 
-<p align="left">Passionate about the world of technology and development, I have gained skills and experience in DevOps, including:<br><br>✅️ Setting up CI/CD pipelines to automate software deployment;<br>✅️ Cloud infrastructure deployment;<br>✅️ Automating tasks with scripts;<br>✅️ Container and orchestrator management; <br>✅️ Infrastructure and application monitoring to ensure optimum performance.<br><br><br>Self-taught and versatile, in addition to the culture and mastery of devops tools, I have developed practical knowledge and skills in the areas of:<br><br>🌐 Web integration (Wordpress) ;<br>🖌️ Graphic design (logo, flyer, user interface);<br>🎮 Mobile game development (Unity).</p>
+<p align="left">Passionate about technology and development, I have forged solid skills and in-depth experience in DevOps, with a particular focus on:
+ <br><br>✅️ The implementation of CI/CD pipelines to automate and optimize software deployments ;
+ <br>✅️ Deploying cloud infrastructures;
+ <br>✅️ Automating tasks with scripts;
+ <br>✅️ Container and orchestrator management; 
+ <br>✅️ Infrastructure and application monitoring to ensure optimum performance.
+ 
+ <br><br><br>Self-taught and versatile, in addition to the culture and mastery of devops tools, I have developed practical knowledge and skills in the areas of:
+ <br><br>💻 Development of web/mobile solutions: e-commerce, SaaS, custom applications;
+ <br>🖌️ Visual identity creation: design of graphic charters, logos, flyers, user interfaces, etc.
 
 
 <h3 align="left">👨🏾‍💻 What I do for a living ⚙️ :</h3>
 
-<p align="left">📌  I automate development, testing and deployment processes to improve the efficiency of the development team; <br>📌  I ensure that applications are highly available by implementing monitoring and alert systems; <br>📌  I build your customized cloud infrastructure; <br>📌  I develop and host your application on the cloud;</p>
+<p align="left">
+ 📌 Design and development: I design, develop and deploy solutions tailored to your goals and budget; <br>
+ 📌  Process automation: I automate development, testing and deployment processes to increase team efficiency ;<br>
+ 📌  Monitoring and optimization: I set up monitoring and alert systems to ensure application availability and performance.</p>
 
 <h3 align="left">👨🏾‍💻 Tools I use frequently 💻 :</h3>
-<p align="left">💻️DEV:<br>➡️ Version management tools: Git, GitHub, GitLab.<br>➡️ Containerization tools: Docker, Kubernetes.<br>➡️ Development languages: JS, python, c#, dart<br>➡️ Virtualization tools: Vagrant<br><br>🛠OPS: <br>➡️ IaC and Automation: Ansible, Terraform, Jenkins<br>➡️ Monitoring tools: Prometheus, Grafana.<br>➡️ Scripting languages: Python, Bash.</p>
-
+<p align="left">
+ 💻️DEV:<br>
+ ➡️ Version management tools: Git, GitHub, GitLab.<br>
+ ➡️ Containerization tools: Docker, Kubernetes.<br>
+ ➡️ Development languages: JS, python, dart<br>
+ ➡️ Virtualization tools: Vagrant<br><br>
+ 🛠OPS: <br>
+ ➡️ IaC and Automation: Ansible, Terraform, Jenkins<br>
+ ➡️ Monitoring tools: Prometheus, Grafana, node_exporter, grok_exporter.<br>
+ ➡️ Scripting languages: Python, Bash;<br><br>
+🖌️DESIGN:
+➡️ Graphics: Adobe Illustrator, Canva ;<br>
+➡️ Ux: Adobe XD, Figma.<br>
+</p>
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
 
@@ -61,10 +85,17 @@ height="40" alt="vagrant_logo"
 
 <h3 align="left">👨🏾‍💻 My hobbies :</h3>
 
-<p align="left">🎶️ Beatmaking<br>⚽️ Sports<br>📖️ Reading</p>
+<p align="left">
+ 🎶️ Beatmaking<br>
+ ⚽️ Sports<br>
+ 📖️ Reading
+</p>
 
 <h3 align="left">👨🏾‍💻 Looking for 🔍 a :</h3>
 
-<p align="left">💼 Junior DevOps ?<br>💼 Cloud System Administrator (linux) ?<br>💼 CI/CD specialist? <br>💼 IAC specialist?<br>💼 Applications developer (server-based or serverless)?<br>💼 Operations automation expert?</p>
-
-<p align="left">💬 Don't hesitate to contact me if you're looking for a team member ready to contribute to the success of your DevOps projects and promote a culture of collaboration and continuous improvement.</p>
+<p align="left">
+ 💼 A CI/CD specialist to automate your development processes?<br>
+ 💼 A solutions developer capable of meeting your customers' needs?<br>
+ 💼 A designer to redefine and modernize your visual identity?<br>
+ 
+<p align="left">💬  Don't hesitate to contact me to discuss your DevOps, development or design projects. I'm ready to make my contribution to ensure the success of your initiatives.</p>
